@@ -33,5 +33,6 @@ public class student_details {
         // student's name, department, and program. When `s.displayDetails();` is called, it will
         // output this information to the console.
         s.displayDetails();
+        s.displayStudentMarks();
 }
 }
